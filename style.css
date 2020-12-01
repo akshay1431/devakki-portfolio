@@ -2,7 +2,7 @@
 
 :root
 {
-    --primary-color:#93C5FD;
+    --primary-color:#60A5FA;
     --dark-grey:
     --backg-col:
 }
@@ -33,11 +33,11 @@ body
 {
     display: inline;
     font-size: 4px;
-    padding:4px;
+    padding:1rem;
 }
 .list-inline .link
 {
-    color:red;
+    color:white;
     }
 .nav-right
 {
@@ -58,7 +58,7 @@ body
 
 .myAlert
 {
-    background-color: #FCA5A5;
+    background-color: red;
     color: black;
     font-size: 4px;
     margin: 0px;
